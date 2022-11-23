@@ -1,0 +1,70 @@
+body{
+    background: #f0f2f3;
+    color: #fff;
+}
+.nav:hover{
+    background: #9aca40;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 100px;
+}
+header{
+    top-bottom: 20px;
+}
+.contenedor-main{
+    margin-bottom: 20px;
+}
+main{
+    background: #fff;
+    color: #424242;
+    padding: 20px 0;
+}
+aside{
+    background: #dee5e8;
+    padding: 60px 0;
+    color: #0d47a1;
+}
+.nav-link{
+    color: #dee5e8;
+}
+
+.dropdown-menu{
+    color:#dee5e8
+}
+.widgets{
+    margin-bottom: 20px;
+}
+.brand{
+    color: #dee5e8;
+}
+.widgets > div{
+    background: #2196f3;
+    color: #fff;
+    padding: 20px;
+
+}
+.icon-tabler:hover{
+    background: #9aca40;
+}
+.icon-tabler{
+    margin-top: 20px;
+}
+.menu:hover{
+    background: #9aca40;
+    color: #fff;
+}
+.copy{
+    text-align: center;
+}
+.menu{
+    border: #000 solid 2px;
+    border-radius: 5px;
+}
+.mexicana{
+    text-align: center;
+}
+footer{
+    margin: 20px 0;
+    background: #000;
+}
