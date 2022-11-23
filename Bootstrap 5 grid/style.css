@@ -2,13 +2,6 @@ body{
     background: #f0f2f3;
     color: #fff;
 }
-.nav:hover{
-    background: #9aca40;
-    padding: 20px;
-    margin-bottom: 20px;
-    width: 100%;
-    height: 100px;
-}
 header{
     top-bottom: 20px;
 }
